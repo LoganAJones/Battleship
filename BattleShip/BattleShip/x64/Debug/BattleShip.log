@@ -1,0 +1,3 @@
+﻿  User.cpp
+c:\users\jones\desktop\battleship\battleship\user.cpp(118): warning C4101: 'e': unreferenced local variable
+  BattleShip.vcxproj -> C:\Users\jones\Desktop\BattleShip\x64\Debug\BattleShip.exe
